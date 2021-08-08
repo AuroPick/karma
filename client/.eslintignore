@@ -1,0 +1,9 @@
+.idea
+.storybook
+.config
+node_modules/*
+config/*
+public/*
+scripts/*
+babel.config.js
+metro.config.js
